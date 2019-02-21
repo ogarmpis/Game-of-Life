@@ -8,6 +8,6 @@ implementation, while there are extensive Readme files in greek. In Performance 
 a presentation of each implementation performance.
 
 ## Contributors
-  https://github.com/Pantokratoras7
-  https://github.com/VangelisGara
-  https://github.com/KostasKotronis
+- [Orestis Garmpis](https://github.com/Pantokratoras7)
+- [Kostas Kotronis](https://github.com/KostasKotronis)
+- [Vangelis Garaganis](https://github.com/VangelisGara)
